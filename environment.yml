@@ -1,0 +1,11 @@
+name: pindemic
+
+channels:
+  - conda-forge
+  - mosaic
+
+dependencies:
+  - python=3.9.*
+  - numpy
+  - matplotlib
+  - cellcomplex >=1.1
